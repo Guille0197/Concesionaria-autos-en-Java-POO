@@ -1,4 +1,4 @@
-# ConsesionarioJavaPOO
+# ConcesionarioJavaPOO
 Consesionaria en Java 
 
 #https://www.youtube.com/watch?v=6c_5RJm-LUk
