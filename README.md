@@ -1,5 +1,5 @@
-# ConcesionarioJavaPOO
-Consesionaria en Java 
+# Concesionario Java POO
+Concesionaria en Java con Netbeans
 
 #https://www.youtube.com/watch?v=6c_5RJm-LUk
 
